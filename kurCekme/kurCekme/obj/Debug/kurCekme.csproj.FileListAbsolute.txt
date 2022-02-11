@@ -1,0 +1,10 @@
+C:\Users\DOKÜMANTASYON\source\repos\kurCekme\kurCekme\bin\Debug\kurCekme.exe.config
+C:\Users\DOKÜMANTASYON\source\repos\kurCekme\kurCekme\bin\Debug\kurCekme.exe
+C:\Users\DOKÜMANTASYON\source\repos\kurCekme\kurCekme\bin\Debug\kurCekme.pdb
+C:\Users\DOKÜMANTASYON\source\repos\kurCekme\kurCekme\obj\Debug\kurCekme.csproj.AssemblyReference.cache
+C:\Users\DOKÜMANTASYON\source\repos\kurCekme\kurCekme\obj\Debug\kurCekme.Form1.resources
+C:\Users\DOKÜMANTASYON\source\repos\kurCekme\kurCekme\obj\Debug\kurCekme.Properties.Resources.resources
+C:\Users\DOKÜMANTASYON\source\repos\kurCekme\kurCekme\obj\Debug\kurCekme.csproj.GenerateResource.cache
+C:\Users\DOKÜMANTASYON\source\repos\kurCekme\kurCekme\obj\Debug\kurCekme.csproj.CoreCompileInputs.cache
+C:\Users\DOKÜMANTASYON\source\repos\kurCekme\kurCekme\obj\Debug\kurCekme.exe
+C:\Users\DOKÜMANTASYON\source\repos\kurCekme\kurCekme\obj\Debug\kurCekme.pdb
